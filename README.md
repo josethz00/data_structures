@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-### Common algorithms and data structures implementation in the Rust language
+### Common algorithms and data structures implemented in the Rust language
 
 <br />
 
