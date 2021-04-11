@@ -6,6 +6,6 @@
 
 | Algorithm  | Folder |
 | ------------- | ------------- |
-| Bubble Sort  | <a href="">bubble_sort</a>  |
+| Bubble Sort  | <a href="./stack">bubble_sort</a>  |
 | Queue  | <a href="">queue</a> |
 | Stack | <a href="">stack</a> |
